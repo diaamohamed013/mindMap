@@ -161,6 +161,6 @@ body {
 
 @media (max-width: 767px){
     .mapContainer{
-        zoom: 50%;
+        zoom: 70%;
     }
 }
